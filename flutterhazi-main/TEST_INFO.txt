@@ -1,0 +1,3 @@
+B8V41Y
+provider
+Alapvetően jó volt,de egy két helyen nagyon macerás volt működésre bírni úgy ahogy a tesztek azt elvárják
